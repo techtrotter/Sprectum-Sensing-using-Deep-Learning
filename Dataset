@@ -1,0 +1,10 @@
+ Dataset
+The dataset used in this project is RadioML 2016.04C, a large-scale modulation recognition dataset widely used in spectrum sensing and signal classification research.
+
+Due to its large size (~2GB), it is not included in this repository.
+
+ How to Access the Dataset
+You can download the dataset from the DeepSig official website or request a copy from the author for academic or research purposes.
+
+ To request the dataset directly or collaborate on this project, feel free to reach out at:
+blb8.dev@gmail.com
